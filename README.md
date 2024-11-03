@@ -1,4 +1,4 @@
-This is some kind of rewrite of my Python TikTok scraper
+This is some kind of work-in-stagnation rewrite of my Python TikTok scraper
 
 # Objectives
     - Add multithreading
