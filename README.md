@@ -1,3 +1,4 @@
+This is some kind of rewrite of my Python TikTok scraper
 
 # Objectives
     - Add multithreading
